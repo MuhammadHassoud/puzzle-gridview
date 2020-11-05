@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Grid Puzzle</string>
+    <string name="hello">Hello World, DraggableGridViewSampleActivity!</string>
+
+    <string name="app_name">DraggableGridViewSample</string>
+
+    <string name="button1Text">Add Word</string>
+
+    <string name="button2Text">View Poem</string>
 </resources>
